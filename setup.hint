@@ -1,8 +1,0 @@
-category: X11
-requires: python python-egg python-gobject2.0 python-gtk2.0 recordmydesktop
-sdesc: "X11 desktop session recorder (GTK+ GUI)"
-ldesc: "recordMyDesktop is a X11 desktop session recorder that attemps 
-to be easy to use, yet also effective at it's primary task. As such, the 
-program is separated in two parts; a simple command line tool that 
-performs the basic tasks of capturing and encoding and a graphical 
-interface that exposes the program functionality in a usable way."
